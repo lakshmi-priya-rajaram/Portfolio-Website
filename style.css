@@ -1,0 +1,25 @@
+body {
+    margin: 0;
+    font-family: Arial;
+    background: #f2f2f2;
+}
+
+header {
+    text-align: center;
+    padding: 40px;
+    background: #4b4be0;
+    color: white;
+}
+
+section {
+    max-width: 800px;
+    margin: auto;
+    padding: 20px;
+}
+
+.card {
+    background: white;
+    padding: 15px;
+    margin-top: 10px;
+    border-radius: 8px;
+}
